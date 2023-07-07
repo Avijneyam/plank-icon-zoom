@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 
+# this scritp is for Fedora
+
 wget https://launchpad.net/ubuntu/+archive/primary/+sourcefiles/plank/0.11.89-1/plank_0.11.89.orig.tar.xz
 tar -xf plank_0.11.89.orig.tar.xz
 cd plank-0.11.89/
